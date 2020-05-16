@@ -8,6 +8,9 @@ This repository includes pytorch implementations of 《A Submodular Optimization
 
 **Code**
 - [jadore801120/attention-is-all-you-need](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
 -[jayparks/transformer](https://github.com/jayparks/transformer)
+
 - [OpenNMT/OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
+
 -[malllabiisc/DiPS](https://github.com/malllabiisc/DiPS)
